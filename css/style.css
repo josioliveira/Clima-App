@@ -1,0 +1,41 @@
+body{ /* Informações do conteúdo "externo" */
+    background: rgb(247, 238, 238);
+    margin: auto;
+
+}    
+.menu { /* Barra do menu */
+    background-color: rgb(241, 207, 201);
+    margin: 0;
+    font-size: 1px;
+    padding-top: 1%;
+}
+
+.menu .menu_logo { /* Logo dentro da barra */
+    display: inline;
+    text-align: left;
+    padding-top: 10px;
+    
+}
+.menu ul li a { /* alteracao no logotipo e titulo dentro da barra */
+    padding-left: 12px;
+    display: inline;
+    color: rgb(95, 92, 92);
+    text-decoration: none;
+    font-size: 38px
+
+   
+}
+
+.menu ul  { /*infos do titulo dentro da barra */
+
+    display: inline;
+    text-align: center;
+    padding-top: 20px;
+
+   
+    
+    
+  
+}
+
+
