@@ -5,6 +5,8 @@
                   Página para consulta de Previsão do Tempo utilizando a API do serviço accuweather.com
                   
                   Endereço: https://climaapp.z15.web.core.windows.net/
+                  
+                  Para esse projeto foi utlizado HTML5, Javascript, Css, Framework JQuery e Bootstrap.
 
 
 
