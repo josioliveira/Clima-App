@@ -3,6 +3,7 @@
                           
 
 ## Página para consulta de Previsão do Tempo, para esse projeto utilizei a linguagem e ferramentas HTML5, Javascript, Css, JQuery, Bootstrap e a API do serviço accuweather.com
+## Projeto hospedado na plataforma de nuvem Azure.
                   
 Endereço: https://climaapp.z15.web.core.windows.net/
 
